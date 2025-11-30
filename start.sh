@@ -9,7 +9,7 @@ while [ $# -gt 0 ]; do
 	case "$1" in
 	-h|--help)
 		cat <<- EOF
-		QEMU VMs Starter
+		QEMU VM Starter
 
 		Options:
 		  -h, --help    : Show this help
