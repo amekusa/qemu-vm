@@ -1,2 +1,7 @@
+*.raw
+*.qcow
+*.qcow2
+*.vmdk
+
 /user.conf
 
